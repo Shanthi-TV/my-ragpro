@@ -1,6 +1,8 @@
 -r src/requirements.txt
+promptflow-evals
 pandas
 jsonlines
+promptflow.evals
 openpyxl
-openai<=1.44.1 # https://github.com/microsoft/promptflow/issues/3751
+openai<=1.44.1  # https://github.com/microsoft/promptflow/issues/3751
 azure.mgmt.authorization==4.0.0
